@@ -78,7 +78,7 @@ Task_30_MoneyWise/
 ## Local run
 
 ```bash
-cd d:\Sharga\Kinzha14\Task_30_MoneyWise
+cd 'your/project/folder'
 docker compose up --build -d
 ```
 
