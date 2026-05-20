@@ -1,4 +1,4 @@
-# Task 30 - MoneyWise
+# MoneyWise
 
 MoneyWise is a microservice personal finance assistant for transaction tracking, budgeting, financial goals, investments, and analytics.
 
