@@ -81,7 +81,7 @@ export function DashboardPage() {
       <header className="hero">
         <div>
           <p className="eyebrow">MoneyWise Personal Finance Assistant</p>
-          <h1>Track spending, protect budget limits, and grow goals with one dashboard.</h1>
+          <h1>Your financial overview</h1>
           <p className="hero-copy">
             The platform combines transactions, budgets, goals, and investments, then builds forecast and alerts.
           </p>

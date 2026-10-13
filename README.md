@@ -78,7 +78,7 @@ Task_30_MoneyWise/
 ## Local run
 
 ```bash
-cd 'your/project/folder'
+cd MoneyWise
 docker compose up --build -d
 ```
 
@@ -102,4 +102,12 @@ docker compose config
 
 ```bash
 python scripts/demo_workflow.py
+```
+
+## Environment configuration
+
+Before starting services, copy `.env.example` to `.env` and adjust it for your machine. Example passwords and keys are for local demonstration only.
+
+```powershell
+Copy-Item .env.example .env
 ```
